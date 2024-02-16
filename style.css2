@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header { 
+background-color: royalblue;
+padding-bottom: 20px;
+}
+.icon {
+margin: 40px 40px 30px 10px;
+text-decoration: ;
+border-radius: 5px;
+}
+footer {
+    background-color: royalblue;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+header a {
+padding: 7px;
+text-decoration: none;
+color: black;
+background-color: orange;
+border-radius: 10px;
+}
+footer p {
+color: white;
+padding:10px;
+font-size: 20px;
+margin-left: 20px ;
+}
+h1 {
+text-align: center;
+font-size: 40px;
+}
+h2,h3,h4 {
+font-size: 30px;
+color: orangered;
+margin-left: 20px;
+}
+.a{
+margin: 30px;
+}
+.b {
+margin:30px;
+}
+.c {
+margin: 30px;
+}
+.d{
+margin:30px ;
+}
